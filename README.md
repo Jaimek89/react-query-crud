@@ -1,4 +1,4 @@
-# Reacy Query CRUD
+# React Query CRUD
 
 ## About What
 
